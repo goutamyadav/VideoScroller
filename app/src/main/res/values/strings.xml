@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoScroller</string>
+    <string name="profile" />
+    <string name="refresh" />
+    <string name="search">\n</string>
+    <string name="like" />
+    <string name="title">title</string>
+</resources>
